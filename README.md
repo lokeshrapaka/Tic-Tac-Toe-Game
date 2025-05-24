@@ -1,19 +1,27 @@
-# Tic Tac Toe
+# Tic Tac Toe Game 🎮
 
-A classic two-player Tic Tac Toe game implemented in Python.  
-Players take turns marking X or O on a 3×3 grid, aiming to place three marks in a row horizontally, vertically, or diagonally to win.
+A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a friend in the browser with a clean UI and smooth gameplay.
 
 ## Features
 
-- Two-player gameplay (X and O)
-- Displays the game board after each move
-- Checks for win conditions and declares the winner
-- Detects draw when no moves are left
+- 2-player mode (X vs O)
+- Turn-based gameplay
+- Win, lose, or draw detection
+- Reset button to start a new game
+- Responsive design
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## How to Run
 
-1. Ensure Python 3.x is installed.
-2. Save the Tic Tac Toe script as `tic_tac_toe.py`.
-3. Run the script from your terminal:
-   ```bash
-   python tic_tac_toe.py
+1. Clone or download the repository.
+2. Open the `index.html` file in your browser.
+
+```bash
+git clone https://github.com/yourusername/tic-tac-toe.git
+cd tic-tac-toe
+open index.html  # or just double-click the file
