@@ -24,7 +24,7 @@ h1 {
 }
 
 .container {
-  background-color: #aeaead;
+  background-color: #ffffff;
   border-radius: 20px;
   padding: 25px;
   box-shadow: 0 8px 20px rgba(251, 249, 249, 0.834);
@@ -46,7 +46,7 @@ h1 {
 }
 
 .box {
-  background-color: #873e17e4;
+  background-color: #a9e07fe4;
   border-radius: 15px;
   border: 2px solid #070b10;
   height: 18vmin;
@@ -87,7 +87,7 @@ h1 {
   padding: 12px 35px;
   border: none;
   border-radius: 30px;
-  background: #ce5f1ae8;
+  background: #4ad864e8;
   color: #f1f5f9;
   font-size: 1.1rem;
   font-weight: 700;
@@ -96,7 +96,7 @@ h1 {
 }
 
 .reset_btn:hover, #newgame:hover {
-  background-color: #1d4ed8; 
+  background-color: #7ae8a8; 
   cursor: pointer;
 }
 
